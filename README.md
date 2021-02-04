@@ -9,5 +9,5 @@ All version of P Browser (2nd Generation)
 10.2.0
 10.3.0-Beta1
 
-All files already extracted.
+All files already archived.
 We will update this readme after new version is out!
